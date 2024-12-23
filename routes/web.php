@@ -18,20 +18,20 @@ use Mpdf\Mpdf;
 |
 */
 
-Route::get('/', function () {   
+Route::get('/', function () {
     $pdf = Pdf::loadView('welcome')->setOption(['defaultPaperSize' => 'a3']);
     return $pdf->stream();
     // return view('welcome');
 });
 
-Route::get('/pib', function () {   
+Route::get('/pib', function () {
     // return view('welcome');
     $pdf = Pdf::loadView('pib')->setOption(['defaultPaperSize' => 'a3']);
     return $pdf->stream();
     // return view('welcome');
 });
 
-Route::get('/umum/{type?}', function () {   
+Route::get('/umum/{type?}', function () {
     if(request()->type == 'download'){
         $pdf = Pdf::loadView('umum')->setOption(['defaultPaperSize' => 'a3']);
         return $pdf->download();
@@ -40,7 +40,7 @@ Route::get('/umum/{type?}', function () {
     }
 });
 
-Route::get('/npe/{type?}', function () {   
+Route::get('/npe/{type?}', function () {
     $pdf = Pdf::loadView('npe')->setOption(['defaultPaperSize' => 'a3']);
     if(request()->type == 'download'){
         return $pdf->download();
@@ -52,3 +52,4 @@ Route::get('/npe/{type?}', function () {
 Route::get('read/excel',[ExcelUploadController::class,"index"]);
 Route::post('write/excel',[ExcelUploadController::class,"write"])->name("write.excel");
 Route::get('/download/{filename}', [ExcelUploadController::class, 'downloadImage'])->name('image.download');
+Route::get('/download-file/{filename}', [ExcelUploadController::class, 'downloadFile'])->name('file.download');
