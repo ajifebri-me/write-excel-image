@@ -104,43 +104,43 @@
         </table>
         <table>
             <tr>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top: 0px;padding-bottom:3px;width:39.5%;">1. NAMA KANTOR PABEAN PEMUATAN</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top: 0px;padding-bottom:3px;width:1%;">:</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top: 0px;padding-bottom:3px;width:auto;">KPU BEA DAN CUKAI TIPE A TANJUNG PRIOK</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:39.5%;">1. NAMA KANTOR PABEAN PEMUATAN</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:1%;">:</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:auto;">KPU BEA DAN CUKAI TIPE A TANJUNG PRIOK</td>
             </tr>
         </table>
         <table>
             <tr>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top: 0px;padding-bottom:2px;width:39.5%;">2. NPWP/NAMA EKSPORTIR</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top: 0px;padding-bottom:2px;width:1%;">:</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top: 0px;padding-bottom:2px;width:auto;">0010606168055000/PT AKEBONO BRAKE ASTRA INDONESIA</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:39.5%;">2. NPWP/NAMA EKSPORTIR</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:1%;">:</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:auto;">0010606168055000/PT AKEBONO BRAKE ASTRA INDONESIA</td>
             </tr>
             <tr>
-                <td class="no-border" style="padding-top: 0px;padding-bottom:3px;width:39.5%;">&nbsp;&nbsp;&nbsp;&nbsp;NITKU</td>
-                <td class="no-border" style="padding-top: 0px;padding-bottom:3px;width:1%;">:</td>
-                <td class="no-border" style="padding-top: 0px;padding-bottom:3px;width:auto;">0010606168055000000000</td>
-            </tr>
-        </table>
-        <table>
-            <tr>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top: 0px;padding-bottom:20px;width:39.5%;">3. NPWP/NAMA PPJK</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top: 0px;padding-bottom:20px;width:1%;">:</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top: 0px;padding-bottom:20px;width:auto;">-/-</td>
+                <td class="no-border" style="padding:0px 5px 3px 5px;width:39.5%;">&nbsp;&nbsp;&nbsp;&nbsp;NITKU</td>
+                <td class="no-border" style="padding:0px 5px 3px 5px;width:1%;">:</td>
+                <td class="no-border" style="padding:0px 5px 3px 5px;width:auto;">0010606168055000000000</td>
             </tr>
         </table>
         <table>
             <tr>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;width:auto;padding-right: 0;padding-top: 0px;">4. NPWP/NAMA PPJK</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 20px 5px;width:39.5%;">3. NPWP/NAMA PPJK</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 20px 5px;width:1%;">:</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 20px 5px;width:auto;">-/-</td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;width:auto;padding:0px 0px 1px 5px;">4. NPWP/NAMA PPJK</td>
                 <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top: 0px;width:1%;">:</td>
                 <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0;margin:0;width:82%;">
                     <table cellspacing="0" cellpadding="0">
                         <tr>
-                            <td class="no-border" style="width: 26.3%;padding-top: 0px;">a. Nama</td>
+                            <td class="no-border" style="width: 26.5%;padding-top: 0px;">a. Nama</td>
                             <td class="no-border" style="width: 1%;padding-top: 0px;">:</td>
                             <td class="no-border" style="width: auto;padding-top: 0px;">WHITE DRAGON</td>
                         </tr>
                         <tr>
-                            <td class="no-border" style="width: 26.3%;">b. Voyage/Flight/Nopol</td>
+                            <td class="no-border" style="width: 26.5%;">b. Voyage/Flight/Nopol</td>
                             <td class="no-border" style="width: 1%;">:</td>
                             <td class="no-border" style="width: auto;">2431N</td>
                         </tr>
@@ -150,19 +150,19 @@
         </table>
         <table>
             <tr>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top:0;width:39.5%;">5. TANGGAL PERKIRAAN EKSPOR</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top:0;width:1%;">:</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top:0;width:auto;">07-12-2024</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:39.5%;">5. TANGGAL PERKIRAAN EKSPOR</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:1%;">:</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:auto;">07-12-2024</td>
             </tr>
         </table>
         <table>
             <tr>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-bottom: 0;padding-top: 0;width:39.5%;">6. PELABUHAN MUAT</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-bottom: 0;padding-top: 0;width:1%;">:</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-bottom: 0;padding-top: 0;width:auto;"></td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 0px 5px;width:39.5%;">6. PELABUHAN MUAT</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 0px 5px;width:1%;">:</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 0px 5px;width:auto;"></td>
             </tr>
             <tr>
-                <td class="no-border" style="padding-left: 15px;padding-top: 1px;padding-bottom:1px;">
+                <td class="no-border" style="padding-left: 18px;padding-top: 1px;padding-bottom:1px;">
                     a. Pelabuhan Muat Asal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp; Tanjung Priok
                 </td>
                 <td class="no-border" style="width: 50%;padding-left:60px;padding-top: 1px;padding-bottom:1px;">
@@ -172,17 +172,17 @@
         </table>
         <table>
             <tr>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top:0;width:39.5%;">7. BERAT KOTOR</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top:0;width:1%;">:</td>
-                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top:0;width:auto;">2,858.4000 KGM</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:39.5%;">7. BERAT KOTOR</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:1%;">:</td>
+                <td style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;width:auto;">2,858.4000 KGM</td>
             </tr>
         </table>
         <table>
             <tr>
-                <td colspan="2" style="border-left: 0px; border-right: 0px;border-bottom:0px;padding-top:1px;">8. KEMASAN</td>
+                <td colspan="2" style="border-left: 0px; border-right: 0px;border-bottom:0px;padding:0px 5px 3px 5px;">8. KEMASAN</td>
             </tr>
             <tr>
-                <td class="no-border" style="width: 47%;padding-left:15px;padding-top: 1;">
+                <td class="no-border" style="width: 47%;padding-left:18px;padding-top: 1;">
                     <p style="margin: 0;padding-top: 0;">PETI KEMAS</p>
                     <table cellspacing="0" cellpadding="0">
                         <tr>
@@ -310,57 +310,54 @@
                 <td style="border: 0;border-top: 0.5px solid black;padding-top:0;padding-right:0;" width="50%">
                     <div style="padding-left: 3px;padding-top:1px;">
                         E. CATATAN PEMASUKAN BARANG EKSPOR<br>
-                        <table>
+                        <table style="padding-left: 8px;">
                             <tr>
-                                <td class="no-border">
-                                    <table cellspacing="0" cellpadding="0">
-                                        <tr>
-                                            <td class="no-border">Segel</td>
-                                            <td class="no-border">:</td>
-                                            <td class="no-border" style="vertical-align: middle;">
-                                                <table>
-                                                    <tr>
-                                                        <td class="no-border">
-                                                            <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
-                                                            <p style="display: inline-block; vertical-align: middle; margin: 0;">Utuh</p>
-                                                        </td>
-                                                        <td class="no-border">
-                                                            <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
-                                                            <p style="display: inline-block; vertical-align: middle; margin: 0;">Rusak</p>
-                                                        </td>
-                                                        <td class="no-border">
-                                                            <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
-                                                            <p style="display: inline-block; vertical-align: middle; margin: 0;">Tidak Sesuai</p>
-                                                        </td>
-                                                    </tr>
-                                                </table>
-                                            </td>
-                                        </tr>
+                                <td class="no-border" style="padding: 0;">
+                                    <table>
+                                        <td class="no-border" style="width: 15%;padding-bottom: 0;">Segel :</td>
+                                        <td class="no-border" style="vertical-align: middle;text-align:start;padding-bottom: 0;">
+                                            <table>
+                                                <tr>
+                                                    <td class="no-border" style="width: 18%;padding-bottom: 0;">
+                                                        <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
+                                                        <p style="display: inline-block; vertical-align: middle; margin: 0;">Utuh</p>
+                                                    </td>
+                                                    <td class="no-border" style="width: 20%;padding-bottom: 0;">
+                                                        <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
+                                                        <p style="display: inline-block; vertical-align: middle; margin: 0;">Rusak</p>
+                                                    </td>
+                                                    <td class="no-border" style="width: auto;padding-bottom: 0;">
+                                                        <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
+                                                        <p style="display: inline-block; vertical-align: middle; margin: 0;">Tidak Sesuai</p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="no-border" style="margin: 0;padding:0;">
+                                    <table style="margin: 0;padding:0;" cellspacing="0" cellpadding="0">
                                         <tr>
                                             <td class="no-border" style="margin: 0;padding:0;">
-                                                <table style="margin: 0;padding:0;" cellspacing="0" cellpadding="0">
+                                                <table cellspacing="0" cellpadding="0">
                                                     <tr>
-                                                        <td class="no-border" style="margin: 0;padding:0;">
-                                                            <table cellspacing="0" cellpadding="0">
-                                                                <tr>
-                                                                    <td class="no-border">Mulai Masuk Tgl : </td>
-                                                                    <td class="no-border">Pukul : </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td class="no-border">Selesai Masuk Tgl : </td>
-                                                                    <td class="no-border">Pukul : </td>
-                                                                </tr>
-                                                            </table>
-                                                        </td>
+                                                        <td class="no-border" style="width: 55%;padding-top:0;">Mulai Masuk Tgl : </td>
+                                                        <td class="no-border" style="width: auto;padding-top:0;">Pukul : </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="no-border" style="width: 55%;padding-top:0;">Selesai Masuk Tgl : </td>
+                                                        <td class="no-border" style="width: auto;padding-top:0;">Pukul : </td>
                                                     </tr>
                                                 </table>
                                             </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="no-border" style="padding-top:10px;padding-bottom:30px;">Petugas Dinas Luar</td>
                                         </tr>
                                     </table>
                                 </td>
+                            </tr>
+                            <tr>
+                                <td class="no-border" style="padding-top:8px;padding-bottom:15px;vertical-align:bottom;">Petugas Dinas Luar</td>
                             </tr>
                         </table>
                     </div>
@@ -370,23 +367,26 @@
                         F. CATATAN PEMUATAN BARANG EKSPOR KE SARANA<br>
                         <table>
                             <tr>
-                                <td class="no-border" style="padding-top:0;padding-right:0;">
+                                <td class="no-border"></td>
+                            </tr>
+                            <tr>
+                                <td class="no-border" style="padding-top:11px;padding-right:0;">
                                     <table cellspacing="0" cellpadding="0">
                                         <tr>
                                             <td class="no-border">
                                                 <table cellspacing="0" cellpadding="0">
                                                     <tr>
-                                                        <td class="no-border">Short Shipment : </td>
+                                                        <td class="no-border" style="padding-top: 0;">Short Shipment : </td>
                                                     </tr>
                                                     <tr>
-                                                        <td class="no-border">Selesai Muat Tgl : </td>
-                                                        <td class="no-border">Pukul : </td>
+                                                        <td class="no-border" style="padding-top: 0;">Selesai Muat Tgl : </td>
+                                                        <td class="no-border" style="padding-top: 0;">Pukul : </td>
                                                     </tr>
                                                 </table>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="no-border" style="padding-top:30px;padding-bottom:30px;">&nbsp;&nbsp;Petugas Dinas Luar</td>
+                                            <td class="no-border" style="padding-top:5px;padding-bottom:15px;vertical-align:bottom;">&nbsp;&nbsp;Petugas Dinas Luar</td>
                                         </tr>
                                     </table>
                                 </td>
@@ -397,26 +397,26 @@
             </tr>
         </table>
         <div style="border-top: 0.5px solid black;">
-            <center style="margin-top: 5px;margin-bottom: 5px;">UNTUK KANTOR PABEAN PEMUATAN DI PELABUHAN MUAT ASAL</center>
+            <center style="margin-top: 2px;margin-bottom: 2px;">UNTUK KANTOR PABEAN PEMUATAN DI PELABUHAN MUAT ASAL</center>
         </div>
         <table style="border-top:0.5px solid black;border-bottom:0px solid black;">
             <tr>
                 <td style="border: 0;padding-top:0;padding-right:0;" width="50%">
-                    <div style="padding-left: 5px;padding-top:5px;">
-                        G. CATATAN PEMERIKSAAN DOKUMEN EKSPOR<br><br>
+                    <div style="padding-left: 3px;padding-top:1px;">
+                        G. CATATAN PEMERIKSAAN DOKUMEN EKSPOR<br>
                         <table>
                             <tr>
-                                <td class="no-border" style="padding-bottom: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;Pejabat Pemeriksa Dokumen</td>
+                                <td class="no-border" style="padding-top:8px;padding-bottom:16px;">&nbsp;&nbsp;&nbsp;&nbsp;Pejabat Pemeriksa Dokumen</td>
                             </tr>
                         </table>
                     </div>
                 </td>
                 <td style="border: 0;padding:0;border-left:0.5px solid black;" width="50%">
-                    <div style="padding-left: 5px;padding-top:5px;">
-                        H. CATATAN PEMERIKSAAN FISIK BARANG<br><br>
+                    <div style="padding-left: 4px;padding-top:1px;">
+                        H. CATATAN PEMERIKSAAN FISIK BARANG<br>
                         <table>
                             <tr>
-                                <td class="no-border" style="padding-bottom: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;Pemeriksa</td>
+                                <td class="no-border" style="padding-top:8px;padding-bottom:16px;">&nbsp;&nbsp;&nbsp;&nbsp;Pemeriksa</td>
                             </tr>
                         </table>
                     </div>
@@ -424,34 +424,32 @@
             </tr>
             <tr>
                 <td style="border: 0;border-top: 0.5px solid black;padding-top:0;padding-right:0;" width="50%">
-                    <div style="padding-left: 5px;padding-top:5px;">
-                        I. CATATAN PENGAWASAN STUFFING<br><br>
-                        <table>
+                    <div style="padding-left: 3px;padding-top:1px;">
+                        I. CATATAN PENGAWASAN STUFFING<br>
+                        <table style="padding-left: 8px;">
                             <tr>
                                 <td class="no-border">
                                     <table cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td class="no-border">Merek/Nomor Peti Kemas</td>
-                                            <td class="no-border">:</td>
-                                            <td class="no-border">-------------------------------</td>
+                                            <td class="no-border" style="padding-bottom: 0px;padding-top:2px;">Merek/Nomor Peti Kemas</td>
+                                            <td class="no-border" style="padding-bottom: 0px;padding-top:2px;">:</td>
+                                            <td class="no-border" style="padding-bottom: 0px;padding-top:2px;">-------------------------------</td>
                                         </tr>
                                         <tr>
-                                            <td class="no-border">Ukuran Peti Kemas</td>
-                                            <td class="no-border">:</td>
-                                            <td class="no-border"></td>
+                                            <td class="no-border" style="padding-bottom: 0px;padding-top:2px;">Ukuran Peti Kemas</td>
+                                            <td class="no-border" style="padding-bottom: 0px;padding-top:2px;">:</td>
+                                            <td class="no-border" style="padding-bottom: 0px;padding-top:2px;"></td>
                                         </tr>
                                         <tr>
-                                            <td class="no-border">Jenis Segel</td>
-                                            <td class="no-border">:</td>
-                                            <td class="no-border"></td>
+                                            <td colspan="2" class="no-border" style="padding-bottom: 0px;padding-top:2px;width: 50%;">
+                                                Jenis Segel &nbsp;:&nbsp;&nbsp;
+                                            </td>
+                                            <td class="no-border" style="padding-bottom: 0px;padding-top:2px;width:auto;">
+                                                Nomor Segel &nbsp;:&nbsp;&nbsp;
+                                            </td>
                                         </tr>
                                         <tr>
-                                            <td class="no-border">Nomor Segel</td>
-                                            <td class="no-border">:</td>
-                                            <td class="no-border"></td>
-                                        </tr>
-                                        <tr>
-                                            <td class="no-border" style="padding-top:10px;padding-bottom:30px;">Pejabat Pengawasan Stuffing</td>
+                                            <td rowspan="2" class="no-border" style="padding-top:2px;padding-bottom: 8px;vertical-align:bottom">Pejabat Pengawasan Stuffing</td>
                                         </tr>
                                     </table>
                                 </td>
@@ -460,28 +458,28 @@
                     </div>
                 </td>
                 <td style="border: 0;border-top: 0.5px solid black;padding:0;border-left:0.5px solid black;" width="50%">
-                    <div style="padding-left: 5px;padding-top:5px;">
-                        J. CATATAN PENGELUARAN BARANG EKSPOR DARI TPB<br><br>
+                    <div style="padding-left: 4px;padding-top:1px;">
+                        J. CATATAN PENGELUARAN BARANG EKSPOR DARI TPB<br>
                         <table>
                             <tr>
                                 <td class="no-border" style="padding-top:0;padding-right:0;">
                                     <table cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td class="no-border">
+                                            <td class="no-border" style="padding-left: 8px;">
                                                 <table cellspacing="0" cellpadding="0">
                                                     <tr>
-                                                        <td class="no-border">Jenis Segel : </td>
-                                                        <td class="no-border">Nomor Segel : </td>
+                                                        <td class="no-border" style="padding-bottom: 0px;padding-top:2px;">Jenis Segel : </td>
+                                                        <td class="no-border" style="padding-bottom: 0px;padding-top:2px;">Nomor Segel : </td>
                                                     </tr>
                                                     <tr>
-                                                        <td class="no-border">Selesai Keluar Tgl : </td>
-                                                        <td class="no-border">Pukul : </td>
+                                                        <td class="no-border" style="padding-bottom: 0px;padding-top:2px;">Selesai Keluar Tgl : </td>
+                                                        <td class="no-border" style="padding-bottom: 0px;padding-top:2px;">Pukul : </td>
                                                     </tr>
                                                 </table>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="no-border" style="padding-top:45px;padding-bottom:30px;">&nbsp;&nbsp;Petugas Dinas Luar</td>
+                                            <td rowspan="2" class="no-border" style="padding-top:2px;padding-bottom:20px;vertical-align:bottom;padding-left:12px;">Petugas Dinas Luar</td>
                                         </tr>
                                     </table>
                                 </td>
@@ -492,85 +490,85 @@
             </tr>
             <tr>
                 <td style="border: 0;border-top: 0.5px solid black;padding-top:0;padding-right:0;" width="50%">
-                    <div style="padding-left: 5px;padding-top:5px;">
-                        K. CATATAN PEMASUKAN BARANG EKSPOR<br><br>
-                        <table>
+                    <div style="padding-left: 3px;padding-top:1px;">
+                        K. CATATAN PEMASUKAN BARANG EKSPOR<br>
+                        <table style="padding-left: 8px;">
                             <tr>
-                                <td class="no-border">
-                                    <table cellspacing="0" cellpadding="0">
-                                        <tr>
-                                            <td class="no-border">Segel</td>
-                                            <td class="no-border">:</td>
-                                            <td class="no-border" style="vertical-align: middle;">
-                                                <table>
-                                                    <tr>
-                                                        <td class="no-border">
-                                                            <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
-                                                            <p style="display: inline-block; vertical-align: middle; margin: 0;">Utuh</p>
-                                                        </td>
-                                                        <td class="no-border">
-                                                            <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
-                                                            <p style="display: inline-block; vertical-align: middle; margin: 0;">Rusak</p>
-                                                        </td>
-                                                        <td class="no-border">
-                                                            <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
-                                                            <p style="display: inline-block; vertical-align: middle; margin: 0;">Tidak Sesuai</p>
-                                                        </td>
-                                                    </tr>
-                                                </table>
-                                            </td>
-                                        </tr>
+                                <td class="no-border" style="padding: 0;">
+                                    <table>
+                                        <td class="no-border" style="width: 15%;padding-bottom: 0;">Segel :</td>
+                                        <td class="no-border" style="vertical-align: middle;text-align:start;padding-bottom: 0;">
+                                            <table>
+                                                <tr>
+                                                    <td class="no-border" style="width: 18%;padding-bottom: 0;">
+                                                        <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
+                                                        <p style="display: inline-block; vertical-align: middle; margin: 0;">Utuh</p>
+                                                    </td>
+                                                    <td class="no-border" style="width: 20%;padding-bottom: 0;">
+                                                        <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
+                                                        <p style="display: inline-block; vertical-align: middle; margin: 0;">Rusak</p>
+                                                    </td>
+                                                    <td class="no-border" style="width: auto;padding-bottom: 0;">
+                                                        <div style="width: 8px; height: 8px; border: 0.5px solid black; display: inline-block; vertical-align: middle;"></div>
+                                                        <p style="display: inline-block; vertical-align: middle; margin: 0;">Tidak Sesuai</p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="no-border" style="margin: 0;padding:0;">
+                                    <table style="margin: 0;padding:0;" cellspacing="0" cellpadding="0">
                                         <tr>
                                             <td class="no-border" style="margin: 0;padding:0;">
-                                                <table style="margin: 0;padding:0;" cellspacing="0" cellpadding="0">
+                                                <table cellspacing="0" cellpadding="0">
                                                     <tr>
-                                                        <td class="no-border" style="margin: 0;padding:0;">
-                                                            <table cellspacing="0" cellpadding="0">
-                                                                <tr>
-                                                                    <td class="no-border">Mulai Masuk Tgl : </td>
-                                                                    <td class="no-border">Pukul : </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td class="no-border">Selesai Masuk Tgl : </td>
-                                                                    <td class="no-border">Pukul : </td>
-                                                                </tr>
-                                                            </table>
-                                                        </td>
+                                                        <td class="no-border" style="width: 55%;padding-top:0;">Mulai Masuk Tgl : </td>
+                                                        <td class="no-border" style="width: auto;padding-top:0;">Pukul : </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="no-border" style="width: 55%;padding-top:0;">Selesai Masuk Tgl : </td>
+                                                        <td class="no-border" style="width: auto;padding-top:0;">Pukul : </td>
                                                     </tr>
                                                 </table>
                                             </td>
                                         </tr>
-                                        <tr>
-                                            <td class="no-border" style="padding-top:10px;padding-bottom:30px;">Petugas Dinas Luar</td>
-                                        </tr>
                                     </table>
                                 </td>
+                            </tr>
+                            <tr>
+                                <td class="no-border" style="padding-top:8px;padding-bottom:15px;vertical-align:bottom;">Petugas Dinas Luar</td>
                             </tr>
                         </table>
                     </div>
                 </td>
                 <td style="border: 0;border-top: 0.5px solid black;padding:0;border-left:0.5px solid black;" width="50%">
-                    <div style="padding-left: 5px;padding-top:5px;">
-                        L. CATATAN PEMUATAN BARANG EKSPOR KE SARANA<br><br>
+                    <div style="padding-left: 3px;padding-top:1px;">
+                        L. CATATAN PEMUATAN BARANG EKSPOR KE SARANA<br>
                         <table>
                             <tr>
-                                <td class="no-border" style="padding-top:0;padding-right:0;">
+                                <td class="no-border"></td>
+                            </tr>
+                            <tr>
+                                <td class="no-border" style="padding-top:11px;padding-right:0;">
                                     <table cellspacing="0" cellpadding="0">
                                         <tr>
                                             <td class="no-border">
                                                 <table cellspacing="0" cellpadding="0">
                                                     <tr>
-                                                        <td class="no-border">Short Shipment : </td>
+                                                        <td class="no-border" style="padding-top: 0;">Short Shipment : </td>
                                                     </tr>
                                                     <tr>
-                                                        <td class="no-border">Selesai Muat Tgl : </td>
-                                                        <td class="no-border">Pukul : </td>
+                                                        <td class="no-border" style="padding-top: 0;">Selesai Muat Tgl : </td>
+                                                        <td class="no-border" style="padding-top: 0;">Pukul : </td>
                                                     </tr>
                                                 </table>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="no-border" style="padding-top:30px;padding-bottom:30px;">&nbsp;&nbsp;Petugas Dinas Luar</td>
+                                            <td class="no-border" style="padding-top:5px;padding-bottom:15px;vertical-align:bottom;">&nbsp;&nbsp;Petugas Dinas Luar</td>
                                         </tr>
                                     </table>
                                 </td>
